@@ -17,7 +17,6 @@ function App() {
         <Route path="/inventory" element={<Inventory />} />
         <Route path="/about" element={<About />} />
       </Routes>
-      <Shop></Shop>
     </div>
   );
 }
